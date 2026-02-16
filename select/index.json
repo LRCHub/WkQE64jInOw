@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ここで息をして",
+  "base_artist": "eill",
+  "createdAt": "2026-02-16T22:46:12.076034Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ここで息をして",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/pl_01_ここで息をして_eill.txt"
+    }
+  ]
+}
